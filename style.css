@@ -1,0 +1,15 @@
+.block1{
+    background-color: yellow;
+    width: 50px;
+    height: 300px;
+    color: aqua;
+}
+span {
+    color: black;
+}
+.block2{
+    background-color: rgb(89, 0, 255);
+    width: 500px;
+    height: 300px;
+    color: rgb(255, 0, 0);
+}
